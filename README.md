@@ -1,5 +1,3 @@
-# car-ship-classifier
-
 # Car/Ship Image Classifier
 
 This Streamlit app reuses the fitted six models from the supplied notebook.
